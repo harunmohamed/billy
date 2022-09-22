@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/harunmohamed/billy">
-    <img src="./src/assets/logos/billy2.png" alt="Billy Logo"> 
+    <img src="./src/assets/logos/billy.png" alt="Billy Logo"> 
   </a>
 
   <!-- <h3 align="center">Billy</h3> -->
