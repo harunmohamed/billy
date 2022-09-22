@@ -1,3 +1,4 @@
+import BillyLogo from "../src/assets/logos/billy.png"
 import { Button, Stack } from "react-bootstrap"
 import Container from "react-bootstrap/Container"
 import AddBudgetModal from "./components/AddBudgetModal"
@@ -25,9 +26,10 @@ function App() {
     <>
       <Container className="my-4">
         <Stack direction="horizontal" gap="2" className="mb-4">
-          <h1 className="me-auto">Budgets</h1>
-          <Button variant="primary" onClick={() => setShowAddBudgetModal(true)}>
-            Add Budget
+          {/* <h1 className="me-auto">Budgets</h1> */}
+          <img src={BillyLogo} className="me-auto" alt="Billy Logo"/>
+          <Button variant="success" onClick={() => setShowAddBudgetModal(true)}>
+            Add Budget Category
           </Button>
           <Button variant="outline-primary" onClick={openAddExpenseModal}>
             Add Expense
