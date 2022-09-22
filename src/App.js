@@ -27,9 +27,9 @@ function App() {
       <Container className="my-4">
         <Stack direction="horizontal" gap="2" className="mb-4">
           {/* <h1 className="me-auto">Budgets</h1> */}
-          <img src={BillyLogo} className="me-auto" alt="Billy Logo"/>
+          <img src={BillyLogo} className="me-auto" alt="Billy Logo" style={{height: 45}}/>
           <Button variant="success" onClick={() => setShowAddBudgetModal(true)}>
-            Add Budget Category
+            Add Budget
           </Button>
           <Button variant="outline-primary" onClick={openAddExpenseModal}>
             Add Expense
