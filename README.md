@@ -5,7 +5,7 @@
     <img src="./src/assets/logos/billy2.png" alt="Billy Logo"> 
   </a>
 
-  <h3 align="center">Billy</h3>
+  <!-- <h3 align="center">Billy</h3> -->
 
   <p align="center">
     Expenses Simplified.
