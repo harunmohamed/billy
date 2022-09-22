@@ -2,13 +2,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/harunmohamed/billy">
-    <img src="./src/assets/logos/billy2.png" alt="Billy Logo" height="80"> src/assets/logos/billy2.png
+    <img src="./src/assets/logos/billy2.png" alt="Billy Logo"> 
   </a>
 
   <h3 align="center">Billy</h3>
 
   <p align="center">
-    FExpenses Simplified
+    Expenses Simplified.
     <br />
     <a href="#">View App</a>
     ·
